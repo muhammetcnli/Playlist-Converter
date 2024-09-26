@@ -1,0 +1,8 @@
+requests
+dotenv
+json
+os
+spotipy
+oauth2
+base64
+pytest
